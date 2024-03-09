@@ -1,4 +1,4 @@
-<h1>Hi, I'm Toluwanimi! <br/><a href="https://github.com/DanielDTO">IT Support Engineer</a>, <a href="www.linkedin.com/in/toluwanimi-olajide-85b6a9132">Cybersecurity Professional</a>
+<h1>Hi, I'm Toluwanimi! <br/><a href="https://github.com/DanielDTO">IT Support Engineer</a>, <a href="https://www.linkedin.com/in/toluwanimi-olajide-85b6a9132/">Cybersecurity Professional</a>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
@@ -23,10 +23,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Toluwanimi| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="Toluwanimi Olajide | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/toluwanimi-olajide-85b6a9132
+ 
+[linkedin]: https://www.linkedin.com/in/toluwanimi-olajide-85b6a9132/
+
 
 <!--
 **DanielDTO/DanielDTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
